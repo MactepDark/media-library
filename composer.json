@@ -1,0 +1,21 @@
+{
+    "name": "mactepdark/medialibrary",
+    "description": "Media Library module",
+    "type": "library",
+    "keywords": ["rubarb"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "MactepDark",
+            "email": "mactep@rubarbs.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "mactepdark\\medialibrary\\": ""
+        }
+    }
+}
